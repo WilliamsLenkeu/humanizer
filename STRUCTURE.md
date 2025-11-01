@@ -7,7 +7,6 @@ humanizer/
 │
 ├── 📄 Fichiers de Configuration
 │   ├── pom.xml                    # Configuration Maven (JDK 17, dépendances)
-│   ├── AGENTS.MD                  # Rôles et configuration des agents
 │   ├── project_context.md         # Contexte et état du projet
 │   │
 │   └── 📖 README.md               # Vue d'ensemble (LIRE EN PREMIER!)
@@ -76,7 +75,6 @@ humanizer/
 1. **pom.xml** - Configuration Maven (dépendances, plugins)
 2. **docs/decisions.md** - Décisions architecturales
 3. **CustomRuleTemplate.java** - Modèle pour nouvelles règles
-4. **AGENTS.MD** - Configuration du projet
 
 ### Pour l'Intégration
 1. **docs/procedures.md** - Guide d'intégration

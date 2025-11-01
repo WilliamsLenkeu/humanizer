@@ -57,7 +57,7 @@ Mods:    11 transformations appliquées
 ### Phase de Configuration ✅
 - [x] Initialisation Maven
 - [x] Structure complète du projet
-- [x] Configuration des agents/serveurs
+- [x] Configuration des dépendances
 
 ### Phase de Développement ✅
 - [x] Architecture core (TextAnalyzer, PatternDetector)

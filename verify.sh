@@ -13,7 +13,7 @@ echo ""
 
 # Vérifier fichiers importants
 echo "✅ Fichiers de Configuration:"
-for file in "pom.xml" "AGENTS.MD" "project_context.md"; do
+for file in "pom.xml" "project_context.md"; do
     if [ -f "$PROJECT_DIR/$file" ]; then
         echo "   ✓ $file"
     fi
@@ -66,8 +66,8 @@ DOC_FILES=$(find docs -name "*.md" -type f 2>/dev/null | wc -l)
 echo "📦 Fichiers créés:"
 echo "   • Fichiers Java:       $JAVA_FILES"
 echo "   • Documentation:       $((MD_FILES + DOC_FILES)) fichiers"
-echo "   • Configuration:       2 (pom.xml, AGENTS.MD)"
-echo "   • Scripts:             2 (demo.sh, EXEMPLES.java)"
+echo "   • Configuration:       1 (pom.xml)"
+echo "   • Scripts:             2 (demo.sh, navigate.sh)"
 echo ""
 
 echo "✨ Fonctionnalités:"

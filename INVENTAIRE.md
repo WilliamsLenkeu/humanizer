@@ -5,7 +5,6 @@
 ### Fichiers de Configuration (Racine)
 ```
 ✅ pom.xml                          (130 lignes)  - Configuration Maven complète
-✅ AGENTS.MD                        (50 lignes)   - Configuration agents/serveurs MCP
 ✅ project_context.md               (80 lignes)   - Contexte et état du projet
 ```
 
@@ -218,7 +217,6 @@ Total:                          40 tests
 | Fichier | Lignes | Contenu |
 |---------|--------|---------|
 | docs/decisions.md | 80 | 5 décisions techniques clés |
-| AGENTS.MD | 50 | Configuration projet |
 | project_context.md | 80 | Contexte et state |
 
 ---

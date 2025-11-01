@@ -180,7 +180,7 @@ System.out.println("Patterns détectés: " + analysis.get("patternCount"));
 
 ## 🤝 Contribution
 
-Les contributions sont bienvenues! Consulter [AGENTS.MD](AGENTS.MD) pour les standards du projet.
+Les contributions sont bienvenues! Consultez la documentation pour les standards du projet.
 
 ## 📄 Licence
 
